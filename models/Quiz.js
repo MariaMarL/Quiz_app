@@ -31,4 +31,6 @@ export class Quiz {
     }
     this.questionIndex++;
   }
+
+  
 }
